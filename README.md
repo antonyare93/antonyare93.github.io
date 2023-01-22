@@ -5,3 +5,5 @@ I like to learn new tecnologies and improve on myself.
 <code><img height="20" alt="Django" src="./imagenes/django.png"></code>
 <code><img height="20" alt="SQL" src="./imagenes/sql.png"></code>
 <code><img height="20" alt="Java" src="./imagenes/java.png"></code>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=antonyare93&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
